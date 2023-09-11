@@ -8,6 +8,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="1379" alt="Снимок экрана 2023-09-11 в 12 30 07" src="https://github.com/Dariafable/promptopia/assets/79958338/6e696bfa-daad-4224-9a0f-af5d05392d43">
 
+<img width="1381" alt="Снимок экрана 2023-09-11 в 12 38 47" src="https://github.com/Dariafable/promptopia/assets/79958338/6049539b-cec0-4758-b1f1-b61b199f880e">
+
+<img width="1382" alt="Снимок экрана 2023-09-11 в 12 38 26" src="https://github.com/Dariafable/promptopia/assets/79958338/178318da-205a-42f8-8f22-6c90e00b9391">
+
+
 ## Getting Started
 
 First, run the development server:
