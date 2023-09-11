@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <img width="1375" alt="fullsreen" src="https://github.com/Dariafable/promptopia/assets/79958338/270c1860-9cf8-4a8b-a215-7ee85c9d2633">
 
+<img width="1382" alt="Снимок экрана 2023-09-11 в 12 31 13" src="https://github.com/Dariafable/promptopia/assets/79958338/bb73b451-2680-413d-8cca-3b579e5a9534">
+
+<img width="1383" alt="Снимок экрана 2023-09-11 в 12 30 25" src="https://github.com/Dariafable/promptopia/assets/79958338/3b908a41-ff83-44e5-a8dc-3134b206e69e">
+
+<img width="1379" alt="Снимок экрана 2023-09-11 в 12 30 07" src="https://github.com/Dariafable/promptopia/assets/79958338/6e696bfa-daad-4224-9a0f-af5d05392d43">
 
 ## Getting Started
 
