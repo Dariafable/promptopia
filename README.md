@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/dariafable/Desktop/promptopia/public/assets/images/fullsreen.png?version%253D1694424239005)
+
 ## Getting Started
 
 First, run the development server:
